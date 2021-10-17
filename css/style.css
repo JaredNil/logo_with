@@ -1292,7 +1292,7 @@ main .main__content {
 }
 
 .sidebar .sidebar__container {
-  background: url(img/sidebar_bg.png) no-repeat;
+  background: url(../img/sidebar_bg.png) no-repeat;
   width: 260px;
   padding: 20px;
   display: -webkit-box;
@@ -1684,7 +1684,7 @@ main .main__content {
           flex: 0 0 200px;
   width: 200px;
   height: 213px;
-  background: url(img/prod.png);
+  background: url(../img/prod.png);
 }
 
 .catalog__content ul .ware .ware__name {
@@ -1849,7 +1849,7 @@ main .main__content {
   margin-top: 42px;
   width: 200px;
   height: 213px;
-  background: url(img/prod.png);
+  background: url(../img/prod.png);
 }
 
 .catalog__content ul .ware:hover .ware__hover {
@@ -1871,7 +1871,7 @@ main .main__content {
 .dotted {
   width: 100vw;
   height: 3px;
-  background: url(img/icons/dot.png);
+  background: url(../img/icons/dot.png);
 }
 
 .logoslider {
@@ -1918,7 +1918,7 @@ main .main__content {
 .logoslider .logo__swiper .swiper-wrapper .swiper-silde {
   width: 126px;
   height: 29px;
-  background: url(img/slide_logo.png);
+  background: url(../img/slide_logo.png);
 }
 
 .company {
